@@ -20,4 +20,3 @@ Inspired by Rebirth Of The Night (mostly for their invasion type gameplay)
 - Spartan Weapons
 - Tool Belt
 - Waystone
-- 
