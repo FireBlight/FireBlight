@@ -1,16 +1,23 @@
-### Hi there 👋
+# Welcome to FireBlight #
 
-<!--
-**FireBlight/FireBlight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Inspired by Rebirth Of The Night (mostly for their invasion type gameplay)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Mods #
+- Scape & Run: Parasites *MAIN MOD*
+- Antique Atlas
+- Antique Waystones
+- Between Lands
+- Beneath
+- Epic Siege
+- First Aid
+- Grappling Hook
+- Grue
+- Ice and Fire
+- Just Enough Items (JEI)
+- Invasion
+- Levelup! Reloaded
+- Ratlantis
+- Spartan Weapons
+- Tool Belt
+- Waystone
+- 
